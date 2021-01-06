@@ -10,7 +10,7 @@ Using Python to complete sales analysis
 ## 5 important Business Questions
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
-- What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+- What time should we display advertisements to maximize the likelihood of customer’s buying product?
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
@@ -18,4 +18,4 @@ Using Python to complete sales analysis
 ## Results
 
 ## Business Insights
-
+Most businesses follow the general rule of maximiing profits and keeping costs low. For companies providing products, understanding your target audience is key to optimizing sales. Knowing who, what, where and when to show advertisements can be critical to the success of a business, especally now as we make the shift from brick and mortar to online stores. There is much to be gained from this information. While this project focuses on who would be wanting to buy these projects, we could stand to take it a bit further and evaluate who isnt buying. Then ask ourselves why and begin brainstorming how to expand our reach to them.  
